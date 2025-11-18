@@ -11,3 +11,5 @@ The dashboard provides insights into:
 - Tableau: For interactive data visualization and dashboard creation
 - EMSI Job Change UK Dataset: Primary data source for employment statistics
 - Microsoft Excel / CSV: For initial data cleaning and formatting (optional)
+
+[Link to Dashboard](https://public.tableau.com/shared/WMYBX4KQC?:display_count=n&:origin=viz_share_link)
