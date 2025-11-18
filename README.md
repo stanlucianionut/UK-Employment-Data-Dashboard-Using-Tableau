@@ -2,6 +2,7 @@
 This repository presents a Tableau-based data visualization project that explores employment trends across the United Kingdom from 2011 to 2014. Using data sourced from the EMSI Job Change UK dataset, the project highlights key shifts in employment across industries, sub-industries, and geographic regions.
 
 🔍 What It Shows
+
 The dashboard provides insights into:
 - 📈 Employment growth and decline by industry and sub-industry
 - 🗺️ Regional employment dynamics across UK counties and cities
